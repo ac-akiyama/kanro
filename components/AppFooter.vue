@@ -4,10 +4,16 @@
       <nav class="l-footer__nav">
         <ul class="l-footer__nav__list">
           <li>
-            <NuxtLink to="/privacy/">プライバシーポリシー</NuxtLink>
+            <NuxtLink to="/privacy/">特定個人番号及び個人情報保護に関する基本方針</NuxtLink>
           </li>
           <li>
-            <a href="#">利用規約</a>
+            <NuxtLink to="/terms/">ご利用規約</NuxtLink>
+          </li>
+          <li>
+            <NuxtLink to="/terms/">プライバシーポリシー</NuxtLink>
+          </li>
+          <li>
+            <NuxtLink to="/terms/">ソーシャルメディアポリシー</NuxtLink>
           </li>
         </ul>
         <ul class="l-footer__nav__list">
